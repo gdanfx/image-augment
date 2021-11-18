@@ -17,7 +17,7 @@ here is the colab link:
 ```bash
 pip3 install tensorflow
 ```
-Install docker if needed
+### Install docker if needed
 
 ```bash
 sudo apt-get update && sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
