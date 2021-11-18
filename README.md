@@ -13,7 +13,8 @@ This code is in the public domain.
 ## Dependencies
 
 * tensorflow==2.7.0
-Install docker if needed
+
+### Install docker if needed
 
 ```bash
 sudo apt-get update && sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
