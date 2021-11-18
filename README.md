@@ -8,7 +8,7 @@ and returns the augmented image.
 The service is running on port 8501 via TF Serving docker
 ### We can try it out via existing colab with backend running GCP VM instance
 here is the colab link:
-[https://colab.research.google.com/drive/1CiyZg18iRVcuksOumP9TZe0ZjCXg3H58#scrollTo=Foa0BfrfJKwi](https://colab.research.google.com/drive/1CiyZg18iRVcuksOumP9TZe0ZjCXg3H58#scrollTo=Foa0BfrfJKwi)
+[https://colab.research.google.com/drive/1CiyZg18iRVcuksOumP9TZe0ZjCXg3H58?usp=sharing](https://colab.research.google.com/drive/1CiyZg18iRVcuksOumP9TZe0ZjCXg3H58?usp=sharing)
 
 ## Or set it up run it locally
 
