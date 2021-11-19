@@ -44,7 +44,7 @@ docker build -t augment .
 ### Run docker image
 
 ```bash
-docker run -p 8501:8501 -t image-augment
+docker run -p 8501:8501 -t augment
 ```
 Server is now running at: http://localhost:8501
 
