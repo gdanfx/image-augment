@@ -6,7 +6,7 @@ and returns the augmented image.
 
 I believe TF Serving is superrior solution than standard web server because of mini-batch feature and ability to run on nvidia GPU docker containers.
 
-The service is running on port 8501 via TF Serving docker
+The service is running on port 8501 via TF Serving docker container
 ### We can try it out via existing colab with backend running GCP VM
 here is the colab link:
 [https://colab.research.google.com/drive/1CiyZg18iRVcuksOumP9TZe0ZjCXg3H58?usp=sharing](https://colab.research.google.com/drive/1CiyZg18iRVcuksOumP9TZe0ZjCXg3H58?usp=sharing)
