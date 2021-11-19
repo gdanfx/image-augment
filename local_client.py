@@ -18,7 +18,7 @@ def display_image(image : tf.Tensor) -> None:
     image = PIL.Image.fromarray(image.numpy())
     image.show()
 
-folder="/home/dan/interview/images/flowers/"
+folder="images/flowers/"
 #load random image from folder
 filename=np.random.choice(np.array(os.listdir(folder)))
 #load image
